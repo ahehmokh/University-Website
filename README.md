@@ -1,8 +1,104 @@
-# React + Vite
+# University Website 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive university website built with **React.js** and **Vite**.
+The project provides a clean user experience for exploring university programs, learning about the university, viewing student reviews, and finding answers to common questions.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Coming soon...
+
+## 🛠️ Technologies Used
+
+* React.js
+* Vite
+* React Router DOM
+* JavaScript (ES6+)
+* Font Awesome
+* CSS3
+* Responsive Design
+
+## ✨ Features
+
+* 🏠 Modern Home Page
+* 📚 Courses and Programs
+* 🎓 University About Page
+* 💬 Student Reviews Slider
+* ❓ Frequently Asked Questions
+* 📩 Contact Us Page
+* 📱 Fully Responsive Design
+* 🧭 Client-side Routing with React Router
+* 🎨 Modern and clean UI
+* ⚡ Fast development with Vite
+
+## 📂 Project Structure
+
+```text
+src/
+├── pages/
+│   ├── Home.jsx
+│   ├── Program.jsx
+│   ├── Aboutus.jsx
+│   ├── FAQS.jsx
+│   ├── Contactus.jsx
+│   └── Layout.jsx
+│
+├── App.jsx
+├── main.jsx
+└── style.css
+
+public/
+└── assets/
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahehmokh/University-Website.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd University-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will then be available on the local development server provided by Vite.
+
+## 📌 Future Improvements
+
+* Add a backend and database
+* Add authentication and user accounts
+* Add dynamic course details
+* Add course enrollment functionality
+* Add an admin dashboard
+* Connect the contact and newsletter forms to an API
+* Add more interactive features
+
+## 👨‍💻 Author
+
+**Ahmed Ehab Mokhtar**
+
+Front-End / Full-Stack React Developer
+
+* GitHub: [ahehmokh](https://github.com/ahehmokh)
+
+## 📄 License
+
+This project was created for learning and portfolio purposes.
+
+```
+```
