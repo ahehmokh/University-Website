@@ -95,10 +95,3 @@ The application will then be available on the local development server provided 
 Front-End / Full-Stack React Developer
 
 * GitHub: [ahehmokh](https://github.com/ahehmokh)
-
-## 📄 License
-
-This project was created for learning and portfolio purposes.
-
-```
-```
