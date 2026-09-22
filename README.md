@@ -5,7 +5,7 @@ The project provides a clean user experience for exploring university programs, 
 
 ## 🚀 Live Demo
 
-Coming soon...
+universitywebsite-bay.vercel.app
 
 ## 🛠️ Technologies Used
 
